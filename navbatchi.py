@@ -1,6 +1,6 @@
 from datetime import datetime, timedelta
 navbatchilar = ["Navbatchi 1", "Navbatchi 2", "Navbatchi 3", "Navbatchi 4", "Navbatchi 5"]
-oy_boshlanish = datetime(2024, 1, 11)
+oy_boshlanish = datetime(2024, 7, 1)
 oy_tugash = datetime(2024, 7, 31)
 jadval = {}
 kun_soni = (oy_tugash - oy_boshlanish).days + 1
